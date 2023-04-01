@@ -17,5 +17,10 @@ public class Main {
         neon.color="red";
         neon.size="15cm";
         neon.intensity="7675lumin";
+
+        color col=new color();
+        col.colorLights="True";
+        col.colorTire="false";
+        col.colorWindows="True";
     }
 }
